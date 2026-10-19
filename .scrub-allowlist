@@ -1,0 +1,3 @@
+# Generic-rule false positives for the public-repo-scrub commit gate (tracked, public).
+# pack.id.com: placeholder namespace of the PackageTest DFDL schema, not a real host.
+pack.id.com
